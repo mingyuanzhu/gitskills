@@ -1,2 +1,2 @@
 
-select * from test;
+select * from test where 2!=2;
